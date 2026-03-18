@@ -1,7 +1,9 @@
 1 创建工作目录（在虚拟机终端）：
   mkdir credit-switched && cd credit-switched
+  
 2.初始化Repo:
   repo init -u https://github.com/Huzhiwen1208/manifest.git
+  
 3.同步代码：
   repo sync
 
