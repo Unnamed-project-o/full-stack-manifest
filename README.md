@@ -12,7 +12,8 @@
 在vscode远程链接虚拟机后，打开刚才创建的文件夹 credit-switched
 
 目录如下：
-<img width="812" height="198" alt="image" src="https://github.com/user-attachments/assets/8ea4e7a1-1207-4924-a34c-af978a9868ef" />
+<img width="481" height="163" alt="image" src="https://github.com/user-attachments/assets/05aece5b-0d57-49a1-b9db-601aab573068" />
+
 
 终端运行命令：
 ./run.sh
