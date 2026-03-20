@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="origin" fetch="https://github.com/Huzhiwen1208" />
+  <remote name="origin" fetch="https://github.com/Unnamed-project-o/" />
   
   <default remote="origin" revision="master" />
 
