@@ -10,7 +10,4 @@
     <symlink src="run.sh" dest="run.sh" />
     <symlink src="test_back.sh" dest="test_back.sh" />
   </project>
-  <project path=".repo/manifests" name="manifests">
-    <symlink src="README.md" dest="README.md" />
-  </project>
 </manifest>
