@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote name="origin" fetch="https://github.com/Unnamed-project-o/" />
-  
   <default remote="origin" revision="master" />
-
   <project path="frontend" name="frontend" />
-  
-  <project path="backend" name="backend">
-    <symlink src="run.sh" dest="run.sh" />
-    <symlink src="test_back.sh" dest="test_back.sh" />
-  </project>
+  <project path="backend" name="backend" />
+  <project path="." name="full-stack-readme" remote="origin" revision="main" />
 </manifest>
