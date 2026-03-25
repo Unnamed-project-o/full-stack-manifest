@@ -7,7 +7,10 @@
   <project path="frontend" name="frontend" />
   
   <project path="backend" name="backend">
-    <copyfile src="run.sh" dest="run.sh" />
-    <copyfile src="test_back.sh" dest="test_back.sh" />
+    <symlink src="run.sh" dest="run.sh" />
+    <symlink src="test_back.sh" dest="test_back.sh" />
+  </project>
+  <project path=".repo/manifests" name="manifests">
+    <symlink src="README.md" dest="README.md" />
   </project>
 </manifest>
